@@ -6,4 +6,5 @@ Built with Streamlit and powered by a trained Random Forest Classifier, this app
 
 
  The documentation of the project model and application in the compressed ZiP format.
+ 
  In fully Detailed discription and required documentation .
