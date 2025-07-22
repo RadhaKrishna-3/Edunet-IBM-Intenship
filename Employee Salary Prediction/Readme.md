@@ -94,3 +94,4 @@ Copy & share your custom Streamlit link anywhere.
 - 🔒 User input validation & typos correction
 - 🌐 Multilingual input support
 - 🧾 Download prediction report as PDF/CSV
+..
